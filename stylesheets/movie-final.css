@@ -1,0 +1,54 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: white;
+  background-color: black;
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h2 {
+  border-bottom: 1px solid gray;
+}
+#Buy { 
+  background-color: orange;
+  border: 1px solid black;
+  color: blue;
+  text-decoration: none;
+  position: absolute;
+  left: 100px;
+  margin-top: 10px;
+}
+a:hover {
+  color: purple;
+}
+p, li { 
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/*
+img {
+  float: right;
+}
+
+#title {
+  float: left;
+}
+
+#poster {
+  float: right;
+}
+*/
+
+#summary {
+  margin-top: 50px;
+}
+.cyan{
+  color:cyan;
+}
+#ratings{
+  float: right;
+}
