@@ -1,0 +1,23 @@
+body{
+	background-color: #f1f1f1;
+}
+
+.navbar {
+background-color: #01a0c7;
+}
+
+.navbar .nav > li > a
+{
+	color: white;
+}
+
+.image-3 img{
+	background: none !important;
+	border: none !important;
+}
+
+.container{
+
+	background-color: white;
+	padding:20px;
+}
